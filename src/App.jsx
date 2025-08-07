@@ -9,11 +9,11 @@ function App() {
 
   return (
     <div>
-    <Hero/>
-    <Contact/>
-    <Aboutme/>
-    <Skill/>
-  
+      <Hero />
+      <Contact />
+      <Aboutme />
+      <Skill />
+
     </div>
   )
 }
